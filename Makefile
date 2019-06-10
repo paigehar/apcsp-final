@@ -1,4 +1,4 @@
-TARGET = grades.c
+TARGET = grades
 LIBS = -lm
 CC = gcc
 CFLAGS = -g -Wall -I.
